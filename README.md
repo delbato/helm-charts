@@ -7,3 +7,4 @@ This is my personal helm chart repository
 Applications currently in this repository:
 
 * Syncthing: `charts/syncthing`
+* ProjectZomboid dedicated server: `charts/project-zomboid-server`
